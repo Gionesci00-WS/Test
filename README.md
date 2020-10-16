@@ -1,2 +1,2 @@
 # Test
-Test to understand gitHub worckflow
+Test to understand gitHub workflow
